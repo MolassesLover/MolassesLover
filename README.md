@@ -3,8 +3,8 @@
 
 ![MolassesLover's GitHub stats](https://github-readme-stats.vercel.app/api?username=molasseslover&show_icons=true&theme=github_dark)
 
-- 🎶Musician
-- 🦀Rustacean
+- 🎶 Musician
+- 🦀 Rustacean
 - 🎮 Game developer
 - 🖌️ 2D, 3D and pixel artist
 - ⛏️ Minecraft mod developer
